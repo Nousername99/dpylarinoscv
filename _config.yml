@@ -67,28 +67,27 @@ content:
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               Ionian University: I built an online pharmacy with 300 products inside from zero where you can make your online purchases with many payment methods all over Greece through a wide range of products.
-               
                Ionian University: I have completed quite a few security themed projects most of them involved achieving basic security attacks. 
                
                Ionian University: My thesis was about security with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor"
                
                Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, in a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
                
-               Univeristy of Piraeus: Now I am working to complete my postgraduate thesis. The title is "CTF Forensic Challenges" and I have to create some CTF challenges.
+               Univeristy of Piraeus: I have completed my master’s thesis, titled “CTF Forensic Challenges”, in which I designed a series of hands-on forensic Capture The Flag challenges. One challenge I particularly enjoyed creating focuses on log analysis of a machine infected with malware — the objective is to analyze logs, reconstruct the attack timeline, and extract indicators of compromise to drive forensic conclusions.
                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Not yet
+        title: SOC Analyst — KMICRO (California, USA) November 2023 – Present
         # link: boringcompany.com
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
         # caption: November 2017 - Present
         quote: > 
         description: | # this will include new lines to allow paragraphs
-            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in Ionian University and University of Piraeus including my courses there and my own research.
+            I am currently working as a Security Operations Center (SOC) Analyst at KMICRO, a cybersecurity firm based in California. My responsibilities included monitoring SIEM alerts and security telemetry, performing triage and incident validation, conducting log and host-based analysis, and coordinating escalations to incident response teams. I regularly applied threat-hunting techniques to identify suspicious activity, produced actionable incident reports and remediation recommendations.
+
  
   - tittle: Education # Title for the section
     layout: list # Type of content section (list/text)
