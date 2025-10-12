@@ -46,7 +46,7 @@ linkedin_username: dionisis-pylarinos-585694283
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile3.jpg
+about_profile_image: profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International. I have a strong interest in the field of Cybersecurity, particularly in penetration testing. I am passionate about identifying and analyzing vulnerabilities, assessing potential risks, and developing effective strategies to strengthen system resilience.
 content:
