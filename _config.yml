@@ -111,7 +111,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Other hobbies:
-      
+      [📄 View My Thesis (PDF)](./mthesis.pdf)
       - Gaming
       - Djing
       
