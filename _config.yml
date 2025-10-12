@@ -110,10 +110,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Other hobbies:
-      [📄 View My Thesis (PDF)](./mthesis.pdf)
-      - Gaming
-      - Djing
+      Other:
+      
+      [📄 View My Master’s Thesis (PDF)](./mthesis.pdf)
+      [📄 View My Undergraduate Thesis (docx)](./pthesis.docx)
+      
       
 # Footer
 footer_show_references: true
