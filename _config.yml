@@ -114,9 +114,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Other:
-      
-      [📄 View My Master’s Thesis (PDF)](./mthesis.pdf) 
-      [📄 View My Undergraduate Thesis (docx)](./pthesis.docx)   
 
       **B.Sc Thesis:** Challenges and Deviations in the Implementation of Information Security Incident Response Strategies and the Role of the Human Factor [📄 View (docx)](./pthesis.docx)
       
