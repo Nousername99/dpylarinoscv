@@ -50,30 +50,6 @@ about_profile_image: profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International. I have a strong interest in the field of Cybersecurity, particularly in penetration testing. I am passionate about identifying and analyzing vulnerabilities, assessing potential risks, and developing effective strategies to strengthen system resilience.
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: University projects
-        # link: https://p16pyla.github.io/cv-1/pdf/cv.pdf
-        # link_text: Project Cv Pdf
-        # additional_links:
-        # - title:  sproogen/modern-resume-theme
-        #   icon: fab fa-github
-        #   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          The most intrested for me
-        description: | # this will include new lines to allow paragraphs
-               Ionian University: I have completed quite a few security themed projects most of them involved achieving basic security attacks. 
-               
-               Ionian University: My thesis was about security with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor"
-               
-               Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, in a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
-               
-               Univeristy of Piraeus: I have completed my master’s thesis, titled “CTF Forensic Challenges”, in which I designed a series of hands-on forensic Capture The Flag challenges. One challenge I particularly enjoyed creating focuses on log analysis of a machine infected with malware — the objective is to analyze logs, reconstruct the attack timeline, and extract indicators of compromise to drive forensic conclusions.
                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
