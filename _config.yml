@@ -71,7 +71,7 @@ content:
       - layout: top-middle
         title: Ionian University
         caption: 2016 - 2022
-        sub_title: BSc Computer Science
+        sub_title: Bachelor’s degree, Department of Informatics
         quote: >
           The first Greek University, the Ionian Academy, was founded in Corfu in 1824 and was the first modern-day Greek school of modern times and the academy of the United States of the Ionian Islands. The Department of Informatics has been operating since the academic year 2004-05. The subject of the Department is both theoretical and applied Informatics.
         description: | # this will include new lines to allow paragraphs
@@ -79,7 +79,7 @@ content:
       - layout: top-middle
         title: University of Pireaus
         caption: 2022 - 2024
-        sub_title: Digital Systems Security Department
+        sub_title: Masters degree’s, Computer and Information Systems Security
         quote: >  
          This university is the second-oldest business school established in Greece, while the Department of Banking and Financial Management is the country's oldest academic department in the area of finance
         description: At the University of Piraeus I managed to work under strict deadlines and the most important thing I learned  is that in the field of security you have to constantly adapt to new data and new technologies and not rest on what is already known.
@@ -115,7 +115,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Other:
       
-      [📄 View My Master’s Thesis (PDF)](./mthesis.pdf)
+      [📄 View My Master’s Thesis (PDF)](./mthesis.pdf) 
       [📄 View My Undergraduate Thesis (docx)](./pthesis.docx)
       
       
