@@ -116,8 +116,10 @@ content:
       Other:
       
       [📄 View My Master’s Thesis (PDF)](./mthesis.pdf) 
-      [📄 View My Undergraduate Thesis (docx)](./pthesis.docx)
-      
+      [📄 View My Undergraduate Thesis (docx)](./pthesis.docx)   
+
+      **B.Sc Thesis:** Challenges and Deviations in the Implementation of Information Security Incident Response Strategies and the Role of the Human Factor [📄 View (docx)](./pthesis.docx)
+      **M.Sc Thesis:** [Digital Forensics Exercises (CTF-Style)] [📄 View (PDF)](./mthesis.pdf)
       
 # Footer
 footer_show_references: true
