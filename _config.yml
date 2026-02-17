@@ -71,7 +71,7 @@ content:
              
             I actively practice on Hack The Box and I am currently working through the [Active Directory Penetration Tester job role path](https://academy.hackthebox.com/path/preview/active-directory-penetration-tester){:target="_blank"} to prepare for and obtain the [CAPE](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert){:target="_blank"} certification.
             
-  - tittle: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
