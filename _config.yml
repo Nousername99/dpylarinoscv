@@ -68,7 +68,9 @@ content:
              - Microsoft Sentinel – Log analysis, KQL-based threat hunting, detection rule logic understanding.
              - Microsoft Defender for Endpoint – Endpoint telemetry analysis, attack surface reduction review.
              - Log correlation & attack path analysis.
-            In my free time I practice on Hack The Box, currently working on [📘 Active Directory Penetration Tester path](https://academy.hackthebox.com/path/preview/active-directory-penetration-tester){:target="_blank"} 
+             
+            I actively practice on Hack The Box and I am currently working through the [Active Directory Penetration Tester job role path](https://academy.hackthebox.com/path/preview/active-directory-penetration-tester){:target="_blank"} to prepare for and obtain the [CAPE](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert){:target="_blank"} certification.
+            
   - tittle: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
