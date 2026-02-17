@@ -123,14 +123,14 @@ content:
                **M.Sc Thesis:** Digital Forensics Exercises CTF-Style. [View here](https://dione.lib.unipi.gr/xmlui/handle/unipi/16631)
 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Other:
+  ##- title: A Little More About Me
+    ##layout: text
+    ##content: | # this will include new lines to allow paragraphs
+      ##Other:
 
-      **B.Sc Thesis:** Challenges and Deviations in the Implementation of Information Security Incident Response Strategies and the Role of the Human Factor [📄 View (docx)](./pthesis.docx)
+      ##**B.Sc Thesis:** Challenges and Deviations in the Implementation of Information Security Incident Response Strategies and the Role of the Human Factor [📄 View (docx)](./pthesis.docx)
       
-      **M.Sc Thesis:** Digital Forensics Exercises CTF-Style [📄 View (PDF)](./mthesis.pdf)
+      ##**M.Sc Thesis:** Digital Forensics Exercises CTF-Style [📄 View (PDF)](./mthesis.pdf)
       
 # Footer
 footer_show_references: true
