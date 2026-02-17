@@ -54,7 +54,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: SOC Analyst — KMICRO (California, USA) November 2023 – Present
         # link: boringcompany.com
         # link_text: boringcompany.com
